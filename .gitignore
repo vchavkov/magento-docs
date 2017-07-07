@@ -1,3 +1,4 @@
+.idea
 _site/
 
 =======
@@ -15,7 +16,6 @@ Thumbs.db
 # Config and output files #
 ###########################
 _site
-CNAME
 _config.yml
 /Readme.md
 =======
@@ -34,3 +34,4 @@ Rakefile
 Gemfile
 Gemfile.lock
 .jekyll-metadata
+.idea/
